@@ -1,6 +1,8 @@
 # Frose-figma
 Figma file and link for the music gallery app frose
 
+https://www.figma.com/file/lohrDyMzRQSlXzlKW6d4Bb/Frose?node-id=0%3A1
+
 ------------------------------------------------------------
 
 
