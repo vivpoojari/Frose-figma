@@ -1,5 +1,8 @@
 # Frose-figma
 Figma file and link for the music gallery app frose
+- All pages house a nav-bar and responsive tiles
+- Made it responsive using prototyping to connect all the 8 frames
+
 
 https://www.figma.com/file/lohrDyMzRQSlXzlKW6d4Bb/Frose?node-id=0%3A1
 
