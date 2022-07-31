@@ -1,7 +1,9 @@
 # Frose-figma
 Figma file and link for the music gallery app frose
 
-Pages - 
+------------------------------------------------------------
+
+
 ![image](https://user-images.githubusercontent.com/71507041/182044281-20fa17e0-2bcf-4c01-87c4-154b9361a5fe.png)
 
 ![image](https://user-images.githubusercontent.com/71507041/182044302-4c482cf9-3e76-4866-ac83-c0325289dd11.png)
